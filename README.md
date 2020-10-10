@@ -39,8 +39,9 @@
 * **머신러닝**
 * 딥러닝
 
-<github address>
-[soeuni][github]
+
+github address  
+[soeuni][github] 
 
 
 
