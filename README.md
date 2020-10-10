@@ -6,7 +6,7 @@
 ---
 이름: 이소은  
 나이: 21  
-학교: [한림대학교][hallym]
+학교: [한림대학교][hallym]  
 소속: 소프트웨어융합대학  
 전공: 스마트IoT  
 이메일: dlth508@naver.com
@@ -39,6 +39,11 @@
 * **머신러닝**
 * 딥러닝
 
+<github address>
+[soeuni][github]
+
+
 
 
 [hallym]: http://www.hallym.ac.kr
+[github]: http://github.com/soeuni
